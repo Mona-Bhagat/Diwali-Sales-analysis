@@ -1,7 +1,7 @@
 
 # Diwali-Sales-analysis
 # Project Overview
-This data analysis project aims to improve customer experience by analyzing sales data during festival of Diwali 
+This data analysis project aims to improve customer experience by analyzing sales data during the festival of Diwali using Exploratory Data Analysis with Python libraries
 
 
 # Data Sources
